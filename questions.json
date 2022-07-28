@@ -1,0 +1,26 @@
+[
+    {
+      "question": "Which among the following is the regulator for the insurance industry in India?",
+      "choice1": "Insurance Authority of India",
+      "choice2": "Insurance Regulatory and Development Authority",
+      "choice3": "      Life Insurance Corporation of India",
+      "choice4": "      General Insurance Corporation of India",
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is a secondary burden of risk?",
+      "choice1": " Goods damaged cost",
+      "choice2": "      Setting aside reserves as a provision for meeting potential losses in the future",
+      "choice3": "      Hospitalisation costs as a result of heart attack",
+      "choice4": "Business interuption cost",
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is a secondary burden of risk?",
+      "choice1": "Bank FD",
+      "choice2": "     Insurance",
+      "choice3": "      Equity shares",
+      "choice4": "Real estate",
+      "answer": 2
+    }
+  ]
