@@ -31,7 +31,6 @@
         "choice4": "Insured",
         "answer": 2
     },
-
     {
         "question": "Mahesh ran a business on borrowed capital. After his sudden demise, all the creditors are doing their best to go after Mahesh’s assets. Which of the below assets is beyond the reach of the creditors?",
         "choice1": "Property under Mahesh’s name",
@@ -40,7 +39,6 @@
         "choice4": "Mutual funds owned by Mahesh",
         "answer": 3
     },
-
     {
         "question": "The practice of charging interest to borrowers who pledge their property as collateral but leaving them in possession of the property is called _____________.",
         "choice1": "Security",
