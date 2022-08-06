@@ -8,7 +8,7 @@
         "answer": 2
     },
     {
-        "question": "Mortgage redemption insurance (MRI) can be categorised under ________.",
+        "question": "Mortgage redemption insurance (MRI) can be categorised under ",
         "choice1": "Increasing term life assurance",
         "choice2": "Decreasing term life assurance",
         "choice3": "Variable life assurance",
@@ -33,8 +33,8 @@
     },
     {
         "question": "Mahesh ran a business on borrowed capital. After his sudden demise, all the creditors are doing their best to go after Mahesh’s assets. Which of the below assets is beyond the reach of the creditors?",
-        "choice1": "Property under Mahesh’s name",
-        "choice2": "Mahesh’s bank accounts",
+        "choice1": "Property under Mahesh name",
+        "choice2": "Mahesh bank accounts",
         "choice3": "Term life insurance policy purchased under Section 6 of MWP Act",
         "choice4": "Mutual funds owned by Mahesh",
         "answer": 3
